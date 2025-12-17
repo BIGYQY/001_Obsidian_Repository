@@ -1,0 +1,13 @@
+{
+  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "001_Attachment",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000_Inbox",
+  "trashOption": "local"
+}
