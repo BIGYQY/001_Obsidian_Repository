@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "969e8829392d8fb8",
+    "id": "52fef8be9efa9219",
     "type": "split",
     "children": [
       {
-        "id": "febb3cb6caa954a6",
+        "id": "8893e3adc406943e",
         "type": "tabs",
         "children": [
           {
-            "id": "e157acd8984cb902",
+            "id": "d768ed134b6e4bb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git From Kuang.md",
+                "file": "Git/视频同步笔记：狂神聊Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git From Kuang"
-            }
-          },
-          {
-            "id": "5495e3decd28a47f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003_Dairy/12-08-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-08-2025"
+              "title": "视频同步笔记：狂神聊Git"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "75b643524fab88af",
+    "id": "3441609a141ac3b5",
     "type": "split",
     "children": [
       {
-        "id": "b0b5a645dc4c83d6",
+        "id": "134751084ce9d200",
         "type": "tabs",
         "children": [
           {
-            "id": "a242522016ec86b5",
+            "id": "c0f0a93b3c5a2a3d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +48,12 @@
             }
           },
           {
-            "id": "51319be113d6adf1",
+            "id": "6c80b81e2056615c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclasses\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "5af3cdf31ad05fb6",
+            "id": "e50e7bf0b58625fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "2815198f5bedf085",
+    "id": "a2d2ec6bbba4af23",
     "type": "split",
     "children": [
       {
-        "id": "896c6bd02b41a7ba",
+        "id": "d9d8f86fc82acfe1",
         "type": "tabs",
         "children": [
           {
-            "id": "0c1d2fb5575f020c",
+            "id": "b51243dd8572d220",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Inbox/Do in.md",
+                "file": "Git/视频同步笔记：狂神聊Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Do in 的反向链接列表"
+              "title": "视频同步笔记：狂神聊Git 的反向链接列表"
             }
           },
           {
-            "id": "edbc4e3ab8f3c21d",
+            "id": "5013ee30c0c83af0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git From Kuang.md",
+                "file": "Git/视频同步笔记：狂神聊Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Git From Kuang 的出链列表"
+              "title": "视频同步笔记：狂神聊Git 的出链列表"
             }
           },
           {
-            "id": "2599cd98f4d2008d",
+            "id": "1e6daf0229a9377b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +137,7 @@
             }
           },
           {
-            "id": "bafd3503e2121153",
+            "id": "aa30dab42dc9665f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,94 +151,38 @@
             }
           },
           {
-            "id": "17899084fbfb9d83",
+            "id": "66b9ebb78852e26e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "003_Dairy/12-19-2025.md",
+                "file": "Git/视频同步笔记：狂神聊Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12-19-2025 的大纲"
-            }
-          },
-          {
-            "id": "f61fdbffab14cd0e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "a6bfeaef4a91dbc0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "title": "视频同步笔记：狂神聊Git 的大纲"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-memos:Thino": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false,
-      "obsidian-git:Open Git source control": false
+      "bases:创建新数据库": false
     }
   },
-  "active": "5495e3decd28a47f",
-  "lastOpenFiles": [
-    "未命名 1.md",
-    "Git From Kuang.md",
-    "003_Dairy/12-19-2025.md",
-    "003_Dairy/12-11-2025.md",
-    "000_Inbox/Do in.md",
-    "003_Dairy/12-08-2025.md",
-    "003_Dairy/2025-12-02.md",
-    "Excalidraw/Drawing 2025-12-08 15.19.19.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-02 16.25.54.excalidraw.md",
-    "002_Template/日记模板.md",
-    "001_Attachment/PiCat.png",
-    "000_Inbox/未命名.md",
-    "000_Inbox/is小写.md",
-    "000_Inbox/IS大写.md",
-    "Excalidraw",
-    "000_Inbox/未命名 4.md",
-    "000_Inbox/未命名 3.md",
-    "000_Inbox/未命名 2.md",
-    "未命名",
-    "003_Dairy",
-    "002_Template",
-    "000_Inbox/未命名 5.md",
-    "001_Attachment/Recording 20251201151825.m4a",
-    "001_Attachment/Recording 20251202103117.m4a",
-    "001_Attachment/Recording 20251201151756.m4a",
-    "001_Attachment/Recording 20251202103103.m4a",
-    "001_Attachment",
-    "000_Inbox",
-    "001_Attachment.md",
-    "000_Inbox.md"
-  ]
+  "active": "d768ed134b6e4bb1",
+  "lastOpenFiles": []
 }

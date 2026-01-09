@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "000_Attachment",
+  "focusNewTab": true,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "smartIndentList": true
+}

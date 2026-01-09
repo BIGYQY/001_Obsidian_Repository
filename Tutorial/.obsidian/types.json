@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "fuck": "number",
+    "爱的色放": "date",
+    "完成了吗？": "checkbox"
+  }
+}

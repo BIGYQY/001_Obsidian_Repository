@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "format": "MM-DD-YYYY dddd",
+  "folder": "Dairy/2026/01",
+  "template": "001_Template/Dairy_Template"
+}
