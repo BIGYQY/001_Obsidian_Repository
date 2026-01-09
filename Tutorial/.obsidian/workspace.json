@@ -4,59 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "946dae9e26c21452",
+        "id": "0ed1e59565c67b32",
         "type": "tabs",
         "children": [
           {
-            "id": "7d83b6eda47033c3",
+            "id": "e7726fb9c65f354a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidain/000_Obsidian简介.md",
+                "file": "Computer/字符集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000_Obsidian简介"
+              "title": "字符集"
             }
           },
           {
-            "id": "e594d1e24cab0a49",
+            "id": "15acd11a17835a4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Computer/AfterBurner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "AfterBurner"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "50b2318dbc48da92",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a14417e05c9ab7f4",
+            "id": "d02f53360c842cc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Computer/Keyboard.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Keyboard"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +165,7 @@
             }
           },
           {
-            "id": "fa52b515142c4dbe",
+            "id": "63fd349ef6e3795a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -185,18 +179,18 @@
             }
           },
           {
-            "id": "219c718004b894af",
+            "id": "bcc66d6e0e3f1445",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "Computer/Keyboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Keyboard 的大纲"
             }
           }
         ],
@@ -217,11 +211,33 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "e594d1e24cab0a49",
+  "active": "bcc66d6e0e3f1445",
   "lastOpenFiles": [
-    "01-01-2026 星期四.md",
+    "未命名",
+    "Computer/AfterBurner.md",
+    "Computer/Keyboard.md",
+    "Computer/字节.md",
+    "Computer/字符集.md",
     "未命名.md",
-    "MarkDown小入门.md",
+    "MarkDown/MarkDown小入门.md",
+    "Computer",
+    "MarkDown",
+    "01-01-2026 星期四.md",
+    "Git/视频同步笔记：狂神聊Git.md",
+    "Git/asdfasfw.md",
+    "Git/asdfaf.md",
+    "Git/004_Git关联远程仓库.md",
+    "Git/003_Git初始化配置仓库.md",
+    "Git/002_Git界面讲解.md",
+    "Git/().md",
+    "Git/未命名 1",
+    "Git/Git_Tutorial/001_Git下载与安装.md",
+    "Git/Git_Tutorial/000_Git简介.md",
+    "Git/Git_Tutorial",
+    "Git/000_/版本控制.md",
+    "Git/000_",
+    "Git",
+    "New folder",
     "Obsidain/000_Obsidian简介.md",
     "Obsidain/004_Obsidian_CheatSheet.md",
     "000_Attachement/测试文件.md",

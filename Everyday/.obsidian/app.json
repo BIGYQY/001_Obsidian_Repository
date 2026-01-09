@@ -10,5 +10,6 @@
   "showLineNumber": false,
   "showIndentGuide": true,
   "rightToLeft": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "smartIndentList": true
 }

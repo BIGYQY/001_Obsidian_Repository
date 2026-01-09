@@ -1,5 +1,8 @@
 {
   "readableLineLength": false,
   "propertiesInDocument": "visible",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "spellcheck": false
 }
