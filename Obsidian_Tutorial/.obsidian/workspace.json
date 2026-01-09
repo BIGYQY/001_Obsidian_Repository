@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "003_Obsidain使用.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -175,15 +175,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "003_Obsidain使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "003_Obsidain使用 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,11 +202,11 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "050d94c2e340ed9f",
+  "active": "219c718004b894af",
   "lastOpenFiles": [
     "004_Obsidian_CheatSheet.md",
-    "000_Attachement/测试文件.md",
     "003_Obsidain使用.md",
+    "000_Attachement/测试文件.md",
     "001_Obsidian界面布局.md",
     "000_Obsidian简介.md",
     "002_Obsidain基础设置.md",
